@@ -1,24 +1,89 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:0077B5&height=220&section=header&text=Navaneetha%20Krishnan%20T%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20AI%20%26%20Data%20Science%20Graduate%20%7C%20BI%20%26%20Cloud%20Enthusiast&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:0077B5&height=180&section=header"/>
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="30%" valign="top" align="center">
+
+<img src="https://ui-avatars.com/api/?name=Navaneetha+Krishnan&background=0077B5&color=fff&size=220&rounded=true&bold=true&font-size=0.4" width="180"/>
+
+### Navaneetha Krishnan T M
+**Data Analyst · Cloud & BI Enthusiast**
+
+📍 Chengalpattu, India
+🟢 Open to work
 
 <br/>
 
 <a href="https://linkedin.com/in/naveen2544"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:navaneeth.2860@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Location-Chengalpattu,%20India-1F3864?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+decisions+that+matter;Building+dashboards+that+tell+a+story;Powered+by+Power+BI%2C+SQL%2C+Python+%26+GCP;2026+B.Tech+Graduate+%E2%80%94+Open+to+Opportunities" alt="Typing SVG"/>
+**Achievements**
+<br/>
+🎓 2026 Graduate &nbsp;·&nbsp; ☁️ Ford Intern &nbsp;·&nbsp; 🏆 R&D Director
 
-</div>
+</td>
+<td width="70%" valign="top">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Turning+raw+data+into+decisions+that+matter;Building+dashboards+that+tell+a+story;Powered+by+Power+BI%2C+SQL%2C+Python+%26+GCP" alt="Typing SVG"/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/📊_About_Me-0077B5?style=for-the-badge"/>
+
+B.Tech AI & Data Science graduate (CGPA 8.2) turning raw data into dashboards, KPIs, and decisions. Interned at **Ford Motor Private Limited** on GCP, Terraform & CI/CD.
+
+<a href="#-about-me"><img src="https://img.shields.io/badge/Read_More-1F3864?style=flat-square"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/🛠️_Tech_Stack-0077B5?style=for-the-badge"/>
+
+Power BI · Tableau · SQL · Python · Pandas · GCP · Terraform · Git · CI/CD (Tekton)
+
+<a href="#️-tech-stack"><img src="https://img.shields.io/badge/Explore-1F3864?style=flat-square"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/📈_Projects-0077B5?style=for-the-badge"/>
+
+Sales Performance Dashboard & HR Analytics Dashboard — built end-to-end in Power BI with DAX, Power Query & SQL.
+
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/View_Projects-1F3864?style=flat-square"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/🎓_Education-0077B5?style=for-the-badge"/>
+
+B.Tech, AI & Data Science — Agni College of Technology, CGPA 8.2, Class of 2026
+
+<a href="#-education"><img src="https://img.shields.io/badge/View_Details-1F3864?style=flat-square"/></a>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,100:1F3864&height=3&width=1000"/>
 
-## 🚀 About Me
+## 📊 About Me
 
 ```yaml
 name:            Navaneetha Krishnan T M
@@ -29,7 +94,6 @@ internship:      Ford Motor Private Limited — GCP, Terraform, CI/CD (Tekton)
 leadership:      Student Director, Research & Development
 volunteering:    Rotaract · NSS · NCC
 languages:       English, Tamil, Hindi (Fluent) · German (A1–A2)
-currently:       Sharpening skills in advanced analytics & cloud data engineering
 status:          🟢 Open to Data Analyst / Cloud / GET roles
 ```
 

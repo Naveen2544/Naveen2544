@@ -1,127 +1,121 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Navaneetha%20Krishnan%20T%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data+Analyst+%7C+Power+BI+%C2%B7+SQL+%C2%B7+Python+%C2%B7+Cloud&descAlignY=62&descSize=16" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+decisions;Power+BI+%7C+SQL+%7C+Python;GCP+%2B+Terraform+%2B+Tekton;Open+to+Data+Analyst+roles+%F0%9F%9A%80" />
-</div>
-<br/>
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-pythonclass NavaneethaKrishnan:
-    def __init__(self):
-        self.name = "Navaneetha Krishnan T M"
-        self.location = "Chengalpattu, India"
-        self.degree = "B.Tech, AI & Data Science — Agni College of Technology"
-        self.role = "Data Analyst"
+<h1 align="center">Hi there, I'm Navaneetha Krishnan T M 👋</h1>
+<h3 align="center">Aspiring Data Analyst | AI & Data Science Graduate | BI & Cloud Enthusiast</h3>
 
-        self.stack = {
-            "bi_visualization": ["Power BI", "Tableau", "Excel", "DAX", "Power Query"],
-            "languages": ["Python", "SQL"],
-            "libraries": ["Pandas", "NumPy"],
-            "cloud_devops": ["GCP", "Terraform", "Tekton", "Git", "GitHub", "GitLab", "CI/CD"],
-        }
+<p align="center">
+  <a href="https://linkedin.com/in/naveen2544"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:navaneeth.2860@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Location-Chengalpattu,%20India-informational?style=for-the-badge"/>
+</p>
 
-        self.currently_learning = ["Advanced SQL", "Cloud Architecture", "German (A1–A2)"]
-        self.fun_fact = "Went from provisioning GCP infra at Ford to building BI dashboards 📊"
+---
 
-    def motto(self):
-        return "Insights hidden in data are just decisions waiting to be made."
+### 🚀 About Me
 
+- 🎓 B.Tech in **Artificial Intelligence & Data Science**, Agni College of Technology (CGPA: 8.2), Class of 2026
+- 📊 Passionate about turning raw data into actionable business insights through **dashboards, EDA, and predictive analysis**
+- ☁️ Hands-on experience with **GCP infrastructure, Terraform, and CI/CD (Tekton)** from my internship at **Ford Motor Private Limited**
+- 🧠 Skilled in **Power BI, SQL, Python**, and data modelling — building intuitive visualizations and KPI reports
+- 🌱 Currently sharpening my skills in advanced analytics and cloud-based data engineering
+- 🤝 Former **Student Director, Research & Development**, and active volunteer with Rotaract, NSS, and NCC
+- 📫 Reach me at **navaneeth.2860@gmail.com**
 
-me = NavaneethaKrishnan()
-print(me.motto())
+---
 
-<br clear="right"/>
-<div align="center">
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-Languages
-<br/>
-Show Image
-Show Image
+**Business Intelligence & Visualization**
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+</p>
 
-BI & Visualization
-<br/>
-Show Image
-Show Image
-Show Image
+**Databases & Programming**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+</p>
 
-Data & Analysis
-<br/>
-Show Image
-Show Image
+**Cloud & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-Tekton-blue?style=flat-square"/>
+</p>
 
-Cloud & DevOps
-<br/>
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+**Data Analytics**
+<p>
+  <img src="https://img.shields.io/badge/Data_Cleaning-4CAF50?style=flat-square"/>
+  <img src="https://img.shields.io/badge/EDA-FF9800?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Statistical_Analysis-673AB7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Predictive_Analysis-009688?style=flat-square"/>
+</p>
 
-Tools
-<br/>
-Show Image
+---
 
-</div>
-<br/>
-<div align="center">
-<a href="https://github.com/Naveen2544">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveen2544&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" width="49%" />
-</a>
-<a href="https://github.com/Naveen2544">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen2544&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" width="49%" />
-</a>
-<img src="https://streak-stats.demolab.com?user=Naveen2544&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" width="70%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen2544&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="90%" />
-<img src="https://github-profile-trophy.vercel.app/?username=Naveen2544&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" width="90%" />
-</div>
-<br/>
-💼 Work Experience
+### 📌 Featured Projects
 
-<details>
-<summary><b>Ford Motor Private Limited — Intern, Integrated Enterprise Resource Planning (ERP)</b> | Feb – Mar 2026 | Chengalpattu, India</summary>
-<br/>
+#### 📈 [Sales Performance Dashboard](https://github.com/Naveen2544)
+*Power BI · DAX · Power Query · SQL · Excel*
+- Built an interactive dashboard to analyze revenue, profit, and regional performance
+- Performed data cleaning and transformation in Power Query; developed DAX measures for key KPIs
+- Delivered dynamic reports with slicers and drill-through visualizations to support business decisions
 
-GCP (Cloud Run · Cloud Run Jobs · Cloud Functions · Eventarc · Artifact Registry · CaaS) Terraform Tekton Git GitHub
+#### 👥 [HR Analytics Dashboard](https://github.com/Naveen2544)
+*Power BI · DAX · Power Query · SQL · Excel*
+- Designed an HR analytics dashboard to monitor employee attrition, workforce trends, and departmental performance
+- Cleaned and modeled HR data in Power Query and built KPI measures with DAX
+- Created interactive filters and visualizations to surface actionable HR insights
 
+> 💡 More projects and case studies coming soon — stay tuned!
 
+---
 
+### 🎓 Education
 
-Built a Pre-Production environment from scratch on Google Cloud Platform, selecting and configuring infrastructure components for ERP testing
-Provisioned and automated infrastructure using Terraform, standardizing environment setup
-Deployed containerized and serverless workloads via Cloud Run, Cloud Functions, and CaaS
-Worked across CI/CD pipelines (Tekton) to support reliable, repeatable deployments
+| Degree | Institution | Score | Years |
+|---|---|---|---|
+| B.Tech, AI & Data Science | Agni College of Technology | CGPA 8.2 | 2022 – 2026 |
+| HSC | Sitadevi Garodia Hindu Vidyalaya Matriculation Hr. Sec. School | 77.5% | 2021 – 2022 |
+| SSLC | Sitadevi Garodia Hindu Vidyalaya Matriculation Hr. Sec. School | 74.8% | 2020 – 2021 |
 
+---
 
-</details>
-<br/>
-🚀 Featured Projects
+### 📜 Certifications
 
-<div align="center">
-ProjectStackHighlightsSales Performance DashboardPower BI · DAX · Power Query · SQL · ExcelInteractive dashboard analyzing revenue, profit & regional performance; DAX measures for key KPIs; drill-through & slicer-driven reportsHR Analytics DashboardPower BI · DAX · Power Query · SQL · ExcelTracks employee attrition, workforce trends & departmental performance; cleaned & modeled HR data with Power Query; filterable KPI visualizations
+- 🏅 Microsoft Learn — Power BI Fundamentals
+- 🏅 Google Cloud Skills Boost — Introduction to Generative AI
+- 🏅 Cloud Computing — NPTEL, IIT Ropar
+- 🏅 The Joy of Computing in Python — NPTEL
+- 🏅 Kaggle Learn — Python
 
-</div>
-<br/>
-🏆 Achievements
+---
 
-<div align="center">
-AchievementDetails🎓Academic PerformanceB.Tech AI & Data Science, CGPA 8.2 (2022–2026)🧑‍💼Student Director, R&DLed college-level Research & Development initiatives🤝Community LeadershipActive member — Rotaract Club, NSS, NCC📜Certifications5 certifications — Power BI, GCP Gen AI, NPTEL Cloud Computing, NPTEL Python, Kaggle Python
+### 🌟 Leadership & Volunteering
 
-</div>
-<br/>
-🎓 Education
+- **Student Director, Research & Development** — led R&D initiatives at the college level
+- **Rotaract Club Member** — active in Rotaract, NSS, and NCC social service groups
 
-<div align="center">
-DegreeInstitutionYearScoreB.Tech, Artificial Intelligence & Data ScienceAgni College of Technology2022 – 2026CGPA 8.2HSCSitadevi Garodia Hindu Vidyalaya Matriculation Hr. Sec. School2021 – 202277.5%SSLCSitadevi Garodia Hindu Vidyalaya Matriculation Hr. Sec. School2020 – 202174.8%
+---
 
-</div>
-📚 Currently Learning
+### 🌐 Languages
 
-🧠 Advanced SQL      → Window functions, Query Optimization
-☁️  Cloud Architecture → GCP Data & Analytics services
-🇩🇪 German (A1–A2)    → Conversational fluency
+English • Tamil • Hindi • German
 
-<br/>
-📫 Reach me: navaneeth.2860@gmail.com · LinkedIn
+---
 
-<img src="https://komarev.com/ghpvc/?username=Naveen2544&style=flat-square&color=70a5fd" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveen2544&show_icons=true&theme=default&hide_border=true" alt="Naveen's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen2544&hide_border=true" alt="Naveen's GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Naveen2544&style=flat-square&color=blue" alt="Profile views"/>
+</p>
+
+<p align="center"><i>Thanks for stopping by — let's connect and build something data-driven! 🚀</i></p>
